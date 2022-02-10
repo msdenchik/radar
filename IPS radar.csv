@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
-Нагрузочное тестирование,Adopt,Techniques,TRUE,тест
-Симуляторы,Hold,Tools,TRUE,тест1
+Нагрузочное тестирование,Adopt,Techniques,ИСТИНА,тест
+Симуляторы,Hold,Tools,ИСТИНА,тест1
 API,Assess,Platforms,ИСТИНА,тест2
 Java,Assess,languages-and-frameworks,ИСТИНА,тест4
 ,,,,

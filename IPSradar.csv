@@ -1,6 +1,23 @@
 name,ring,quadrant,isNew,description
-Нагрузочное тестирование,Adopt,Techniques,ИСТИНА,тест
-Симуляторы,Hold,Tools,ИСТИНА,тест1
-API,Assess,Platforms,ИСТИНА,тест2
-Java,Assess,languages-and-frameworks,ИСТИНА,тест4
-SoapUI,Cancel,Tools,ИСТИНА,Раньше использовалось, теперь нет
+Нагрузочное тестирование,Adopt,Techniques,ИСТИНА,Один из видов тестирования на проекте
+Smoke тестирование,Asses,Techniques,ИСТИНА,Один из видов тестирования на проекте (внедренный не на всех подпроектах)
+Shift Left Testing,Adopt,Techniques,ИСТИНА,Подключаемся к задачам на этапе их обсуждения и постановки
+Симуляторы,Adopt,Tools,ИСТИНА,Основной инструмент для ручной генерации финансовых операций
+Grafana,Assess,Tools,ИСТИНА,Основной инструмент для отображения данных о нагрузочном тестировании
+Postman,Adopt,Tools,ИСТИНА,Основной инструмент для ручного тестирования API
+Swagger,Adopt,Tools,ИСТИНА,Инструмент разработчиков для документации API
+Stash,Cancel,Tools,ИСТИНА,Было раньше
+Jira,Adopt,Tools,ИСТИНА,Инструмент для ведения задач
+Allure,Adopt,Tools,ИСТИНА,Инструмент для ведении тестовой документации
+Gitlab,Adopt,Tools,ИСТИНА,Ведем свои репозитории с автотестами и настраиваем джобы
+Confluence,Adopt,Tools,ИСТИНА,Банковская вики
+Maven,Adopt,Tools,ИСТИНА,
+Java,Adopt,languages-and-frameworks,ИСТИНА,Язык для бэк-автотестов
+JavaScript,Adopt,languages-and-frameworks,ИСТИНА,Язык для фронт-автотестов
+SQL Oracle,Adopt,languages-and-frameworks,ИСТИНА,Для работы с базами данных
+PostgreSQL,Adopt,languages-and-frameworks,ИСТИНА,Для работы с базами данных
+SoapUI,Cancel,Tools,ИСТИНА,Раньше использовалось
+PL/SQL Developer,Adopt,Tools,ИСТИНА,Основной инструмент для SQL Oracle
+Docker,Adopt,Platforms,ИСТИНА,
+Ignite,Adopt,Platforms,ИСТИНА,
+Kafka,Adopt,Platforms,ИСТИНА,
